@@ -1,0 +1,12 @@
+C:\Users\danie\source\repos\TechnicalRadiation\TechnicalRadiation.Models\obj\Debug\net5.0\TechnicalRadiation.Models.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\TechnicalRadiation\TechnicalRadiation.Models\obj\Debug\net5.0\TechnicalRadiation.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\TechnicalRadiation\TechnicalRadiation.Models\obj\Debug\net5.0\TechnicalRadiation.Models.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\TechnicalRadiation\TechnicalRadiation.Models\obj\Debug\net5.0\TechnicalRadiation.Models.AssemblyInfo.cs
+C:\Users\danie\source\repos\TechnicalRadiation\TechnicalRadiation.Models\obj\Debug\net5.0\TechnicalRadiation.Models.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\TechnicalRadiation\TechnicalRadiation.Models\bin\Debug\net5.0\TechnicalRadiation.Models.deps.json
+C:\Users\danie\source\repos\TechnicalRadiation\TechnicalRadiation.Models\bin\Debug\net5.0\TechnicalRadiation.Models.dll
+C:\Users\danie\source\repos\TechnicalRadiation\TechnicalRadiation.Models\bin\Debug\net5.0\ref\TechnicalRadiation.Models.dll
+C:\Users\danie\source\repos\TechnicalRadiation\TechnicalRadiation.Models\bin\Debug\net5.0\TechnicalRadiation.Models.pdb
+C:\Users\danie\source\repos\TechnicalRadiation\TechnicalRadiation.Models\obj\Debug\net5.0\TechnicalRadiation.Models.dll
+C:\Users\danie\source\repos\TechnicalRadiation\TechnicalRadiation.Models\obj\Debug\net5.0\ref\TechnicalRadiation.Models.dll
+C:\Users\danie\source\repos\TechnicalRadiation\TechnicalRadiation.Models\obj\Debug\net5.0\TechnicalRadiation.Models.pdb
