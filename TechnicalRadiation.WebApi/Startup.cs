@@ -33,10 +33,10 @@ namespace TechnicalRadiation.WebApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            //services.AddDbContext<NewsDbContext>(options =>
-            //{
-            //    options.UseSqlite(Configuration.GetConnectionString("DefaultConnection"), m => m.MigrationsAssembly("TechnicalRadiation.WebApi"));
-            //});
+            services.AddDbContext<NewsDbContext>(options =>
+            {
+                options.UseSqlite(Configuration.GetConnectionString("DefaultConnection"), m => m.MigrationsAssembly("TechnicalRadiation.WebApi"));
+            });
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
